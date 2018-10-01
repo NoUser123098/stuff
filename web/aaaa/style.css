@@ -1,1 +1,11 @@
-
+body {
+  font-family: sans-serif;
+}
+input[type=text] {
+  border: 1px solid black;
+  transition: 0.5s;
+}
+input[type=text]:focus {
+  outline: 1px solid red;
+  background-color: #ff6666;
+}
