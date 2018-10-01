@@ -20,10 +20,4 @@ $aaaq = rand(1, 170);
 $aaar = rand(1, 180);
 $aaas = rand(1, 190);
 $aaat = rand(1, 200);
-$aaau = rand(1000000000, 9999999999);
-$aaav = rand(9000000000000000, 9999999999999999);
-$aaaw = rand(9000, 9999);
-$aaax = rand(1000, 9999);
-$aaay = rand(1000, 9999);
-$aaaz = rand(1000, 9999);
 ?>
